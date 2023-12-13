@@ -1,0 +1,43 @@
+.banner{
+    background-color:navy;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px 0;
+    position: relative;
+}
+
+.tabover
+{
+    margin-left: 100px;
+    padding-left: 25px;
+}
+
+.submitbutton{
+    margin-left: 100px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.tablecontainer{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 90%;
+}
+#papa-al{
+    height: 70px;
+} 
+
+.addexercisetitle{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+}
